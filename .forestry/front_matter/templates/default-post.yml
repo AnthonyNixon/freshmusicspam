@@ -10,9 +10,17 @@ fields:
   config:
     required: true
 - type: textarea
-  name: body
-  label: Body
-  description: This is the body of the post
+  name: ''
+  label: ''
+- type: text
+  name: description
+  label: Description
+  description: The brief description for the post
+  config:
+    required: true
+- type: datetime
+  name: date
+  label: Date
   config:
     required: true
 pages:
