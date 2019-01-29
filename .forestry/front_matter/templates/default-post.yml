@@ -15,3 +15,5 @@ fields:
   description: This is the body of the post
   config:
     required: true
+pages:
+- content/posts/this-is-a-test-post.md
