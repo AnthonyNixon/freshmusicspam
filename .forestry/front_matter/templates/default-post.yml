@@ -9,9 +9,6 @@ fields:
   description: The title of the article
   config:
     required: true
-- type: textarea
-  name: ''
-  label: ''
 - type: text
   name: description
   label: Description
