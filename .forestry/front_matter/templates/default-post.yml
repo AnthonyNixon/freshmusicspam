@@ -2,4 +2,16 @@
 label: Default Post
 hide_body: false
 is_partial: false
-fields: []
+fields:
+- type: text
+  name: title
+  label: Title
+  description: The title of the article
+  config:
+    required: true
+- type: textarea
+  name: body
+  label: Body
+  description: This is the body of the post
+  config:
+    required: true
