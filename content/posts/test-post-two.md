@@ -1,5 +1,4 @@
 +++
- = ""
 date = "2019-01-29T00:56:00-06:00"
 description = "test test test 123"
 title = "Test Post two"
