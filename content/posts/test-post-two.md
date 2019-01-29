@@ -2,7 +2,6 @@
  = ""
 date = "2019-01-29T00:00:00-06:00"
 description = "test test test 123"
-draft = true
 title = "Test Post two"
 
 +++
