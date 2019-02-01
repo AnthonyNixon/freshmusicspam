@@ -1,4 +1,4 @@
 steps:
 - name: 'anthonynixon/hugo-google-cloud-deploy:v0.0.2'
-- name: gcr.io/cloud-builders/gcloud
-  args: ['cp', '-r', '/public', 'gs://www.freshmusicspam.com']
+- name: gcr.io/cloud-builders/gsutil
+  args: ['-m', 'rsync', '-r', '-c', '-d', '/public', 'gs://www.freshmusicspam.com']
