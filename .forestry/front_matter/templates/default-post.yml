@@ -22,4 +22,3 @@ fields:
     required: true
 pages:
 - content/posts/test-post-two.md
-- content/posts/this-is-a-test-post.md
