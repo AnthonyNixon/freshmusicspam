@@ -1,4 +1,27 @@
-baseURL = "http://example.org/"
+baseURL = "http://freshmusicspam.com"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Fresh Music Spam"
 theme = "ananke"
+
+DefaultContentLanguage = "en"
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = "daily"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  favicon = ""
+  description = "You've seen it everywhere else, why not here?"
+  facebook = ""
+  twitter = "https://twitter.com/freshmusicspam"
+  instagram = ""
+  youtube = ""
+  github = ""
+  gitlab = ""
+  linkedin = ""
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  # featured_image = "/images/gohugo-default-sample-hero-image.jpg"
+  recent_posts_number = 2
