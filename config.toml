@@ -1,28 +1,23 @@
-baseURL = "http://freshmusicspam.com"
-languageCode = "en-us"
-title = "Fresh Music Spam"
-theme = "ananke"
-
 DefaultContentLanguage = "en"
+baseURL = "http://freshmusicspam.com"
 enableRobotsTXT = true
 googleAnalytics = "UA-133748370-1"
-
-[sitemap]
-  changefreq = "daily"
-  priority = 0.5
-  filename = "sitemap.xml"
-
+languageCode = "en-us"
+theme = "ananke"
+title = "Fresh Music Spam"
 [params]
-  favicon = ""
-  description = "You've seen it everywhere else, why not here?"
-  facebook = ""
-  twitter = "https://twitter.com/freshmusicspam"
-  instagram = ""
-  youtube = ""
-  github = ""
-  gitlab = ""
-  linkedin = ""
-  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  background_color_class = "bg-black"
-  # featured_image = "/images/gohugo-default-sample-hero-image.jpg"
-  recent_posts_number = 5
+background_color_class = "bg-black"
+description = "You've seen it everywhere else, why not here?"
+facebook = ""
+favicon = ""
+github = ""
+gitlab = ""
+instagram = ""
+linkedin = ""
+recent_posts_number = 5
+twitter = "https://twitter.com/freshmusicspam"
+youtube = ""
+[sitemap]
+changefreq = "daily"
+filename = "sitemap.xml"
+priority = 0.5
