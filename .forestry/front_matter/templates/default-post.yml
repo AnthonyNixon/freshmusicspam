@@ -20,3 +20,5 @@ fields:
   label: Date
   config:
     required: true
+pages:
+- content/posts/win-two-2-free-tickets-to-the-richmond-reptile-expo.md
