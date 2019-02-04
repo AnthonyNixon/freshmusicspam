@@ -1,7 +1,6 @@
 +++
 date = "2019-02-04T00:00:00-06:00"
 description = "They can be yours for FREE!"
-draft = true
 title = "WIN two (2) free tickets to the Richmond Reptile Expo"
 
 +++
