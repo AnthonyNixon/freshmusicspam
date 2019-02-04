@@ -1,6 +1,6 @@
 steps:
 - name: 'gcr.io/cloud-builders/git'
   args: ['submodule', 'update', '--init', '--recursive', '--remote']
-- name: 'anthonynixon/hugo-google-cloud-deploy:v0.0.2'
+- name: 'anthonynixon/hugo-google-cloud-deploy:v0.0.3'
 - name: gcr.io/cloud-builders/gsutil
   args: ['-m', 'rsync', '-r', '-c', '-d', 'public', 'gs://www.freshmusicspam.com']
