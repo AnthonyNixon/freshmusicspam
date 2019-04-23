@@ -1,7 +1,6 @@
 ---
 label: Default Post
 hide_body: false
-is_partial: false
 fields:
 - type: text
   name: title
@@ -24,5 +23,6 @@ fields:
   name: tags
   label: Tags
 pages:
-- content/posts/win-two-2-free-tickets-to-the-richmond-reptile-expo.md
+- content/posts/andrew-beyer-is-good.md
 - content/posts/drug-dog-jake-gets-sick-from-holy-ship.md
+- content/posts/win-two-2-free-tickets-to-the-richmond-reptile-expo.md
