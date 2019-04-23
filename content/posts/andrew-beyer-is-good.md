@@ -1,7 +1,6 @@
 +++
 date = "2019-02-04T00:00:00-06:00"
 description = "He really is. He's the 🐐(GOAT (Greatest Of All Time) )"
-draft = true
 tags = ["andrew beyer", "goat", "anjuna", "spam"]
 title = "Andrew beyer is good"
 
